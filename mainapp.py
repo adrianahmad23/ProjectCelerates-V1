@@ -9,6 +9,7 @@ RekoJurusan AI v2 — Streamlit App
 import streamlit as st
 import pandas as pd
 import numpy as np
+import gdown
 import pickle, os, io, time
 from datetime import datetime
 import plotly.graph_objects as go
