@@ -1,0 +1,10 @@
+gdown
+streamlit
+pandas
+numpy
+plotly
+xgboost
+lightgbm
+scikit-learn
+shap
+anthropic
